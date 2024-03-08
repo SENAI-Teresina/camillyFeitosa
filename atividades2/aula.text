@@ -1,0 +1,20 @@
+a função stdin.readLineSYnc();
+
+operador termarios -> forma mais compacta de escrever estruturas condicionais simples.
+                      permite atribuir um valor com base em uma condição.
+ex:
+String status = idade >= 18 ? 'maior de idade' : 'menor de idade';
+print (status);
+
+operadores
+is: verifica se o objeto é um determinado tipo.
+
+estruturas de repetição: switch case, do, for, while
+
+for: usado para iterar sobre uma sequencia de elementos por um número especifico de vezes.
+
+while: int i = 0;
+while (1 < 5) {
+    print('Contagem: $i');
+    i++
+}
